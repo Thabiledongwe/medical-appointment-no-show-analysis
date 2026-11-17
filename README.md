@@ -1,6 +1,5 @@
-# Medical Appointment No-Show Analysis
-
-## Background
+# Appointment Setter & Patient Intake Specialist.
+# Background
 I've spent over a year working as a Medical Virtual Assistant for a GLP-1 telehealth provider, where I personally reschedule 30+ missed patient appointments a day. I always saw the *symptom* — a missed visit — but never had the data to understand the *pattern* behind it. This project uses a public dataset of 110,527 real medical appointments from Brazil to explore what actually predicts whether a patient shows up.
 
 ## Dataset
